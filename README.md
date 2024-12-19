@@ -25,18 +25,103 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 **Procedure**
 
-/* write all the steps invloved */
+/*1.Type the Verilog program in Quartus Prime to implement the 4-bit Serial-In SerialOut (SISO) Shift Register.
+2.Compile and run the program to ensure the design is error-free.
+3.Generate the RTL schematic to visualize the cascading D flip-flop connections and
+save it for documentation.
+4.Create nodes for the serial input (SI), clock (CLK), and serial output (SO) to observe the
+shifting process during simulation.
+5.Simulate the design for different input serial data patterns and observe the timing*/
 
 **PROGRAM**
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
 
-Developed by: RegisterNumber:
+
+
+
+
+
+
+
+![Screenshot 2024-12-19 044159](https://github.com/user-attachments/assets/cb4f9ee3-5255-4f05-95a0-af289dcf9ca4)
+
+
+
+
+
+
+
+
+Developed by:Jeyapriya.J RegisterNumber:24004150
 
 */
 
 **RTL LOGIC FOR SISO Shift Register**
 
+
+
+
+
+
+
+
+
+
+
+![Screenshot 2024-12-19 044210](https://github.com/user-attachments/assets/09b4029b-c0df-461e-8923-e957dfe63bce)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **TIMING DIGRAMS FOR SISO Shift Register**
 
+
+
+
+
+
+
+
+
+
+
+![{D11A01D4-1807-4C78-B033-805B5A2A7BC0}](https://github.com/user-attachments/assets/2b5e104e-4e10-4ed3-a726-3ca5366b6b23)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **RESULTS**
+
+Thus, the Serial-In Serial-Out (SISO) Shift Register is implemented using Verilog, and its
+functionality is validated with the truth table and timing diagrams.
+
+
+
